@@ -1,0 +1,28 @@
+_repo: Black-Hawk-s-Warpath_67128
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Risteen, Herbert L.
+    alias: Risteen, H. L. (Herbert L.)
+    birthdate: 1899
+    deathdate: 1984
+    gutenberg_agent_id: '53673'
+    url: http://www.gutenberg.org/2009/agents/53673
+description: ''
+gutenberg_issued: '2022-01-08'
+identifiers:
+  gutenberg: '67128'
+language: en
+pgterms:marc905: 20190724142759risteen
+pgterms:marc906: '1950'
+pgterms:marc907: US
+production_note: Stephen Hutcheson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net
+publication_note: United States :Cupples and Leon Company,1950.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Black Hawk's Warpath
+url: http://www.gutenberg.org/ebooks/67128
